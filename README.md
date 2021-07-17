@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/693/688/935/uchiha-madara-naruto-shippuuden-wallpaper-preview.jpg" height="250"/>
+  <img src="https://c4.wallpaperflare.com/wallpaper/693/688/935/uchiha-madara-naruto-shippuuden-wallpaper-preview.jpg" height="230"/>
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://ri-tik.github.io/Portfolio/">Ritik Shukla<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
