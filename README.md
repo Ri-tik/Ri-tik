@@ -50,7 +50,7 @@
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ri-tik&repo=Scraping-StockMarket-Higlights)](https://github.com/Ri-tik/Scraping-StockMarket-Higlights)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ri-tik&repo=Portfolio)](https://github.com/Ri-tik/Portfolio)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ri-tik&repo=SearchAnalysis)](https://github.com/Ri-tik/SearchAnalysis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ri-tik&repo=SubJoinApp)](https://github.com/Ri-tik/SubJoinApp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ri-tik&repo=Scrapping-Cricket-Rankings)](https://github.com/Ri-tik/Scrapping-Cricket-Rankings)
 <Br>
