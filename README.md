@@ -6,10 +6,9 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a final year computer science Student (Graduating in 2022). :mortar_board:
-- 🔭: I’m currently working on <b>Search Analyis</b> web search automation project.🤖
-- 🌱: I’m currently learning django framework for web development. 💻
-- 💬: Ask me about Python, Automation, and Data Analysis. 🤖📊
+- 🏫: I'm a computer science graduate, currently working as a software developer.
+- 🌱: I’m currently learning Asp.Net Core and will be creating projects on it soon.
+- 💬: Ask me about Python, Automation & Tell me about C#, DotNet. 
 - :heart: My favorite language: Python
 - 😄  Pronouns: He/His/Him
 - ⚡  Fun fact: I like tweaking android! 
@@ -22,23 +21,24 @@
 - :space_invader:
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-  ![Java](https://img.shields.io/badge/Java-EF9648?style=for-the-badge&logo=java&logoColor=white) 
-  ![C/C++](https://img.shields.io/badge/C-A9EEDF?style=for-the-badge&logo=c&logoColor=white) 
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 - ⚙️ &nbsp;
   ![MS-Office](https://img.shields.io/badge/Microsoft_Office-217346?style=for-the-badge&logo=microsoft-office&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-252520?style=for-the-badge&logo=linux&logoColor=white)
 - 💻 &nbsp;
+  ![Web-Development](https://img.shields.io/badge/WebDev-0078D6?style=for-the-badge&logo=web&logoColor=white)
   ![Data-Analytics](https://img.shields.io/badge/DataAnalytics-068C8C?style=for-the-badge&logo=bigdata&logoColor=white)
   ![Automation](https://img.shields.io/badge/Automation-DE404A?style=for-the-badge&logo=settings&logoColor=white)
-  ![Web-Development](https://img.shields.io/badge/WebDev-0078D6?style=for-the-badge&logo=web&logoColor=white)
-  ![Android-Development](https://img.shields.io/badge/AndroidDev-40DE74?style=for-the-badge&logo=android&logoColor=white)
-- :diamond_shape_with_a_dot_inside: &nbsp;
+- 📚 &nbsp;
+  ![.Net Core](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![Numpy](https://img.shields.io/badge/Numpy-2AB9CF?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-1B4252?style=for-the-badge&logo=pandas&logoColor=white)
   ![Scrapy](https://img.shields.io/badge/Scrapy-2BAD66?style=for-the-badge&logo=scrapy&logoColor=white)
